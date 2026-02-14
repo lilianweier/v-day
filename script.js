@@ -1,11 +1,11 @@
 const gifStages = [
     "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
-    "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
-    "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
-    "https://media.tenor.com/OGY9zdREsVAAAAAj/somsom1012.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
-    "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
-    "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
+    "https://media.tenor.com/S7oJ4bPxcawAAAAi/ahihimaine123.gif",  // 1 confused
+    "https://media.tenor.com/SFy5Za0DyMEAAAAi/erm-fingers.gif",             // 2 pleading
+    "https://media1.tenor.com/m/eehb1DmjruUAAAAd/no.gif",             // 3 sad
+    "https://media.tenor.com/z_RNHY_SEh0AAAAj/what%27s-up-stickers-tawfikiya.gif",       // 4 sadder
+    "https://media1.tenor.com/m/4U8nnEwEYf4AAAAd/falling-fall-to-knees.gif",             // 5 devastated
+    "https://media1.tenor.com/m/6Noh04TN-gIAAAAC/prempdr-fc-mobile.gif",               // 6 very devastated
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
 ]
 
